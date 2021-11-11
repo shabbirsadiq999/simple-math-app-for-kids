@@ -1,1 +1,1 @@
-# simple-math-app-for-kids
+#quiz app
